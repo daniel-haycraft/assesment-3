@@ -12,6 +12,7 @@ function handleSubmit(evt) {
 let form = document.querySelector('#contact');
 
 form.addEventListener('submit', handleSubmit);
+
 let rubberDuckImg = document.querySelector('img')
 
 function compliments(){

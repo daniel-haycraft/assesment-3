@@ -17,7 +17,7 @@ function rit(){
 function place() {
     alert('Cozumel with Sammy')
 }
-colorBtn.backgroundcolor = 'blue'
+
 colorBtn.addEventListener("click", color)
 ritBtn.addEventListener("click", rit)
 placeBtn.addEventListener("click", place)
